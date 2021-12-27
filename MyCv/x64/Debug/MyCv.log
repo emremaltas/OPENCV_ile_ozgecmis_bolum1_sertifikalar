@@ -1,0 +1,61 @@
+﻿  Kaynak.cpp
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(22,55): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(27,42): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(27,33): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(35,17): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(50,54): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(50,46): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(63,79): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(63,63): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(65,1): warning C4305: '*=': 'double' iken 'float' olarak kesildi
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(80,79): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(80,63): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(82,1): warning C4305: '*=': 'double' iken 'float' olarak kesildi
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(100,1): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(105,79): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(105,63): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(107,1): warning C4305: '*=': 'double' iken 'float' olarak kesildi
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(118,79): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(118,63): warning C4244: 'bağımsız değişken': 'int' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\User\source\repos\MyCv\Kaynak.cpp(120,1): warning C4305: '*=': 'double' iken 'float' olarak kesildi
+  MyCv.vcxproj -> C:\Users\User\source\repos\MyCv\x64\Debug\MyCv.exe
